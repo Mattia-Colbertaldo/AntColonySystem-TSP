@@ -5,6 +5,9 @@ In this code, I have implemented the Ant Colony System (ACS) algorithm to solve 
 Problem (TSP). The ACS algorithm is a type of Ant Colony Optimization (ACO) algorithm, which is inspired
 by the foraging behavior of ants. The goal is to find an efficient tour that visits all cities and returns to the
 starting city.
+
+![alt text](./output.png)
+
 Here is the breakdown of the key components of the code:
 
 * Initialization:
